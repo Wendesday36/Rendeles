@@ -4,5 +4,8 @@
 ## GUI
 ![image](https://github.com/Wendesday36/Rendeles/assets/115298982/d91d1a7b-6122-4dbd-95b2-247a70b0a421)
 ![image](https://github.com/Wendesday36/Rendeles/assets/115298982/8df01c2e-08a1-4529-aa01-20fcf2b99ffb)
+## txt fájl:
+![image](https://github.com/Wendesday36/Rendeles/assets/115298982/889bfa06-8168-40d1-96d2-f3726f3a3109)
+
 
 
